@@ -1,0 +1,9 @@
+logutils:
+  input:
+    file:
+      path: D:\utils\large_log_file\large_log_file.log
+    
+    
+  output:
+    fileChunks:
+      path: D:\utils\large_log_file\ 
